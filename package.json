@@ -1,7 +1,7 @@
 {
-  "name": "hyper-solarized-dark",
+  "name": "hyper-solarized-dark-transparent",
   "version": "0.1.1",
-  "description": "Hyper theme using the dark Solarized colors",
+  "description": "Semi transparent Hyper theme using the dark Solarized colors",
   "main": "index.js",
   "keywords": [
     "hyperterm",
@@ -10,18 +10,19 @@
     "hyper-theme",
     "colors",
     "theme",
-    "solarized"
+    "solarized",
+    "transparent"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ghosh/hyper-solarized-dark.git"
+    "url": "git+https://github.com/krisscox/hyper-solarized-dark.git"
   },
-  "author": "Indrashish Ghosh",
+  "author": "Kriss Cox",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Ghosh/hyper-solarized-dark/issues"
+    "url": "https://github.com/krisscox/hyper-solarized-dark/issues"
   },
-  "homepage": "https://github.com/Ghosh/hyper-solarized-dark#readme",
+  "homepage": "https://github.com/krisscox/hyper-solarized-dark#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
