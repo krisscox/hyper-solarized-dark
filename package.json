@@ -1,7 +1,7 @@
 {
   "name": "hyper-solarized-dark-transparent",
   "version": "0.1.1",
-  "description": "Semi transparent Hyper theme using the dark Solarized colors",
+  "description": "Semi transparent Hyper theme using the dark Solarized colors, based upon hyper-solarized-dark by ghosh",
   "main": "index.js",
   "keywords": [
     "hyperterm",
